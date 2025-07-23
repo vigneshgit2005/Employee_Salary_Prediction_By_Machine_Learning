@@ -110,13 +110,13 @@ Ensure you have Python installed (version 3.8 or higher is recommended).
 3.  **Select Parameters**: Choose the appropriate Gender, Education Level, and Job Title from the dropdowns. Adjust the sliders for Years of Experience and Age.
 4.  **Predict Salary**: Click the "Predict Salary" button to see the estimated salary displayed.
     * **Screenshot Idea**: Take a screenshot of the app with input fields filled and the predicted salary displayed.
-    ![Prediction in Action]('images/WhatsApp Image 2025-07-23 at 09.25.45_1e411653.jpg)
-    *(Replace `./images/app_screenshot_1.png` with your actual image path)*
+    ![Prediction in Action](images/Salary_Prediction.jpg)
+   
 5.  **Reset Inputs**: Click the "Reset" button to clear all input fields and start a new prediction.
 6.  **Download Report**: After a prediction is made, a "Download Report as PDF" button will appear, allowing you to save a summary of the prediction.
     * **Screenshot Idea**: Take a screenshot of the report summary section and the download button. You could also show a snippet of the generated PDF if possible.
-    ![Report Summary and Download](images/WhatsApp Image 2025-07-23 at 09.26.05_64e55e82.jpg)
-    *(Replace `./images/app_screenshot_2.png` with your actual image path)*
+    ![Report Summary and Download](images/download_report.jpg)
+   
 
 ## Model Details
 
