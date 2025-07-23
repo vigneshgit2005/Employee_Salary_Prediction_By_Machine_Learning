@@ -142,7 +142,7 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 
 ## License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). (You can create a LICENSE file in your repository with the MIT license text if you don't have one).
+This project is open-source and available under the [Apache License](http://www.apache.org/licenses/). (You can create a LICENSE file in your repository with the MIT license text if you don't have one).
 
 ---
 *Created with ❤️ by Vignesh*
